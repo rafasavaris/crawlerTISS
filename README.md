@@ -88,13 +88,13 @@ Para executar a aplicação, é necessário ter:
 Clone o projeto para sua máquina:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/rafasavaris/crawlerTISS
 ```
 
 Entre na pasta do projeto:
 
 ```bash
-cd <NOME_DO_PROJETO>
+cd crawlerTISS
 ```
 
 ### 2. Verificar as dependências
